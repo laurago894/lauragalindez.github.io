@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "L Galindez"
+  name             : "Laura Galindez Olascoaga"
   avatar           : "Picture1.png"
-  bio              : "PhD candidate at KU Leuven"
+  bio              : "PhD candidate at KU Leuven. Working on hardware-aware machine learning for resource constrained applications."
   location         : "Belgium"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "KU Leuven"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.be/citations?user=GTs84OAAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "laurago894"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "laurago894"
   vine             :
   weibo            :
   xing             :
