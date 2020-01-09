@@ -20,7 +20,7 @@ Before joining KU Leuven, I received my Master's degree in Systems and Control f
 * Mobile robotics and autonomous driving
 
 ### News
-* __December 2019__: Together with Antonio Vergari, gave a talk on our joint project on __*Deep arithmetic networks for efficient learning, inference and decision making*__ durig the _Probabilistic Computing ISTC Annual Workshop at Intel Santa Clara_.
+* __December 2019__: Together with Antonio Vergari, gave a talk on our joint project on __*Deep arithmetic networks for efficient learning, inference and decision making*__ during the _Probabilistic Computing ISTC Annual Workshop at Intel Santa Clara_.
 * __November 2019__: Our paper, __*Acceleration of probabilistic reasoning through custom processor architecture and compiler*__, co-authored with Nimish Shah, Wannes Meert and Marian Verhelst has been accepted at the _Design, Automation and Test in Europe conference 2020_.
 * __October 2019__: Our paper, __*On hardware-aware probabilistic frameworks for resource constrained embdded applications*__, co-authored with Wannes Meert, Nimish Shah, Marian Verhelst and Guy Van den Broeck has been accepted at the _NeurIPS 2019 Energy Efficient Machine Learning workshop_.
 * __September 2019__: Our paper, __*Towards Hardware-Aware Tractable Learning of Probabilistic Models*__, co-authored with Wannes Meert, Nimish Shah, Marian Verhelst and Guy Van den Broeck has been accepted at NeurIPS 2019.
