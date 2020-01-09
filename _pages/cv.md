@@ -35,7 +35,7 @@ Work experience
   
 * Sept. - Dec. 2014: Research Intern
   * ASML. Veldhoven, The Netherlands.
-  * Project on hysteresis modelin, identification and control of a piezo-actuared motion system for Extreme Ultra Violet Litography Machines.
+  * Project on hysteresis modeling, identification and control of a piezo-actuared motion system for Extreme Ultra Violet Litography Machines.
   
 * Aug. 2012 - May 2013: Undergraduate Research Assistant and Laboratory Instructor
   * Tecnologico de Monterrey. Mexico City, Mexico.
