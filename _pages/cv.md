@@ -28,19 +28,17 @@ Work experience
   * Joint project on hardware-awarenedd for learning of tractable probabilistic models.
   * Advisor: Prof. Guy Van den Broeck
   
- * Jan. - Sept. 2015: Research Intern
+* Jan. - Sept. 2015: Research Intern
   * KU Leuven Robotics Research Group. Leuven, Belgium.
   * M.S. thesis project on model predictive motion planning for robots.
   * Advisor: Prof. Herman Bruyninckx.
   
- * Sept. - Dec. 2014: Research Intern
+* Sept. - Dec. 2014: Research Intern
   * ASML. Veldhoven, The Netherlands.
   * Project on hysteresis modelin, identification and control of a piezo-actuared motion system for Extreme Ultra Violet Litography Machines.
   
- * Aug. 2012 - May 2013: Undergraduate Research Assistant and Laboratory Instructor
+* Aug. 2012 - May 2013: Undergraduate Research Assistant and Laboratory Instructor
   * Tecnologico de Monterrey. Mexico City, Mexico.
   * Team leader of RoboCup Rescue Kauil-TecMty. Implementation of SLAM algorithms with ROS and system integration.
   * Supervision of bachelor students’ course project on mechatronics integration for drones.
   
-
-
