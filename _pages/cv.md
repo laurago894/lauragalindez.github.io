@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Mechatronics Engineering, Tecnologico de Monterrey, Mexico, 2012.
 * M.S. in Systems and Control, TU Eindhoven, The Netherlands, 2015.
-* Ph.D in Electrical Engineering, 2020 (expected).
+* Ph.D in Electrical Engineering, KU Leuven, Belgium, 2020 (expected).
 
 Work experience
 ======
