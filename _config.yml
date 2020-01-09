@@ -84,7 +84,7 @@ author:
   avatar           : "Picture1.png"
   bio              : "PhD candidate at KU Leuven. Working on hardware-aware machine learning for resource constrained applications."
   location         : "Belgium"
-  employer         : "KU Leuven"
+  employer         : #"KU Leuven"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.be/citations?user=GTs84OAAAAAJ&hl=en"
   email            :
