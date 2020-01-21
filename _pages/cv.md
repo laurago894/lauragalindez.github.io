@@ -25,7 +25,7 @@ Work experience
   
 * Sept. - Dec. 2018: Visiting Researcher
   * UCLA Statistical and Relational Artificial Intelligence (StarAI) Lab. Los Angeles, California, USA.
-  * Joint project on hardware-awarenedd for learning of tractable probabilistic models.
+  * Joint project on hardware-awareness for learning of tractable probabilistic models.
   * Advisor: Prof. Guy Van den Broeck
   
 * Jan. - Sept. 2015: Research Intern
