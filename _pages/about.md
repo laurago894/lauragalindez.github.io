@@ -20,12 +20,11 @@ Before joining KU Leuven, I received my Master's degree in Systems and Control f
 * Mobile robotics and autonomous driving
 
 ### News
-* __January 2020__: Our paper, __*Discriminative Bias for Learning Probabilistic Sentential Decision Diagrams*__, co-authored with Wannes Meert, Nimish Shah, Guy Van den Broeck and Marian Verhelst has been accepted at the _
-Symposium on Intelligent Data Analysis 2020_.
+* __January 2020__: Our paper, __*Discriminative Bias for Learning Probabilistic Sentential Decision Diagrams*__, co-authored with Wannes Meert, Nimish Shah, Guy Van den Broeck and Marian Verhelst has been accepted at the _Symposium on Intelligent Data Analysis 2020_.
 * __December 2019__: Together with Antonio Vergari, gave a talk on our joint project on __*Deep arithmetic networks for efficient learning, inference and decision making*__ during the _Probabilistic Computing ISTC Annual Workshop at Intel Santa Clara_.
 * __November 2019__: Our paper, __*Acceleration of probabilistic reasoning through custom processor architecture and compiler*__, co-authored with Nimish Shah, Wannes Meert and Marian Verhelst has been accepted at the _Design, Automation and Test in Europe conference 2020_.
 * __October 2019__: Our paper, __*On hardware-aware probabilistic frameworks for resource constrained embdded applications*__, co-authored with Wannes Meert, Nimish Shah, Marian Verhelst and Guy Van den Broeck has been accepted at the _NeurIPS 2019 Energy Efficient Machine Learning workshop_.
-* __September 2019__: Our paper, __*Towards Hardware-Aware Tractable Learning of Probabilistic Models*__, co-authored with Wannes Meert, Nimish Shah, Marian Verhelst and Guy Van den Broeck has been accepted at NeurIPS 2019.
+* __September 2019__: Our paper, __*Towards Hardware-Aware Tractable Learning of Probabilistic Models*__, co-authored with Wannes Meert, Nimish Shah, Marian Verhelst and Guy Van den Broeck has been accepted at _NeurIPS 2019_.
 * __August 2019__: Nimish Shah presented our work, __*PRU: Probabilistic Reasoning processing Unit for resource-efficient
 AI*__ , at _Hot Chips 2019_.
 * __November 2018__: Our paper, __*Dynamic Sensor-Frontend Tuning for Resource Efficient Embedded Classification*__, co-authored with Komail Badami, Jonas Vlasselaer, Wannes Meert and Marian Verhelst has been published in the proceedings of the _IEEE Journal on Emerging and Selected Topics in Circuits and Systems_.
