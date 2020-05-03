@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 ### IDA 2020: Discriminative Bias for Learning Probabilistic Sentential Decision Diagrams
-<iframe width="420" height="315" src="https://www.youtube.com/embed/UBWkZAgwnaA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="200" height="150" src="https://www.youtube.com/embed/UBWkZAgwnaA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
