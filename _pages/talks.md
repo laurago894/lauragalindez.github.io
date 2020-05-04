@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### NeurIPS 2019: Towards Hardware Aware Tractable Learning of Probabilistic Models
-<iframe id="iframepdf" width="560" height="315" src="https://github.com/laurago894/laurago894.github.io/blob/master/files/posterNeurIPS2019.pdf"></iframe>
+<iframe id="iframepdf" width="560" height="315" src="https://github.com/laurago894/laurago894.github.io/blob/master/files/NeurIPS_poster_A0_landscape.png"></iframe>
 
 
 
