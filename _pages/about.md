@@ -8,16 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the [Microelectronics and Sensors (MICAS)](https://www.esat.kuleuven.be/micas/) lab of KU Leuven, working with  [Prof. Marian Verhelst](https://www.esat.kuleuven.be/micas/index.php/marian-verhelst) on the proposal of hardware-aware algorithmic strategies for resource scarce application settings . Previously, I was a visiting scholar at the [Statistical and Relational Artificial Intelligence Lab (StarAI)](http://starai.cs.ucla.edu/) in UCLA, where I worked with [Prof. Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). 
+I am a postdoc at the [Berkeley Wireless Research Center](https://bwrc.eecs.berkeley.edu/) of UC Berkeley, working under the supervision of [Prof. Jan Rabaey](https://www2.eecs.berkeley.edu/Faculty/Homepages/rabaey.html). My research lies at the intersection of probabilistic inference, hyperdimensional computing and hardware-aware machine learning. My current focus is on efficiently incorporating closed loop intelligence to biomedical devices. 
 
-Before joining KU Leuven, I received my Master's degree in Systems and Control from the Mechanical Engineering Department of [TU Eindhoven](https://www.tue.nl/en/) and my Bachelor's degree in Mechatronics Engineering from [Tecnologico de Monterrey](https://tec.mx/en). 
+Before joining UC Berkeley, I obtained my PhD from KU Leuven under the supervision of [Prof. Marian Verhelst](https://www.esat.kuleuven.be/micas/index.php/marian-verhelst). My dissertation proposed hardware-aware probabilistic models and algoritmic strategies targeting resource scarce applications. During the winter of 2018, I was a visiting scholar at the [Statistical and Relational Artificial Intelligence Lab (StarAI)](http://starai.cs.ucla.edu/) in UCLA, where I worked with [Prof. Guy Van den Broeck](http://web.cs.ucla.edu/~guyvdb/). 
+
+I received my Master's degree in Systems and Control from the Mechanical Engineering Department of [TU Eindhoven](https://www.tue.nl/en/) in The Netherlands, and my Bachelor's degree in Mechatronics Engineering from [Tecnológico de Monterrey](https://tec.mx/en) in Mexico. 
 
 ### Interests
 * Resource-aware machine learning
-* Probabilistic modeling 
-* Arithmetic Circuits and sum-product networks
-* Embedded sensory applications and IoT paradigms
-* Mobile robotics and autonomous driving
+* Probabilistic inference 
+* Hyperdimensional Computing
+* Probabilistic circuits
+* Human Robot Interaction
+* Robotics
 
 ### News
 * __January 2020__: Our paper, __*Discriminative Bias for Learning Probabilistic Sentential Decision Diagrams*__, co-authored with Wannes Meert, Nimish Shah, Guy Van den Broeck and Marian Verhelst has been accepted at the _Symposium on Intelligent Data Analysis 2020_.
