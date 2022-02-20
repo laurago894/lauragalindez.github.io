@@ -21,7 +21,8 @@ I received my Master's degree in Systems and Control from the Mechanical Enginee
 * Human Robot Interaction
 
 ### News
-* __December 2021 __:
+* __Februrary 2021__: We are presenting our work on __*A Brain-Inspired Hierarchical Reasoning Framework for Cognition-Augmented Prosthetic Grasping*__ at the _First International Workshop on Combining Learning and Reasoning_ during _AAAI 2022_.
+* __December 2021__: We presented our work at the _Women in Machine Learning Workshop_ at _NeurIPS 2021_, entitled __*Exploiting Hyperdimensional Computing and Probabilistic Inference for Reasoning Across Levels of Abstraction in Dynamic Biosignal-Based Applications*__.
 * __May 2021__: Springer just published my book __*Hardware-Aware Probabilistic Machine Learning Models*__, based on my PhD thesis.
 * __February 2021__: Our work __*9.4 PIU: A 248GOPS/W Stream-Based Processor for Irregular Probabilistic Inference Networks Using Precision-Scalable Posit Arithmetic in 28nm*__, co-authored with Nimish Shah, Wannes Meert, Shirui Zhao and Marian Verhelst was presented at the _International Solid State Circuits Conference (ISSCC2021)_.
 * __November 2020__: Defended my PhD dissertation on __*Hardware-Aware Probabilistic Models: Learning Inference and Use Cases*__!
