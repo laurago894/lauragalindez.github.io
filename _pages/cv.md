@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mechatronics Engineering, Tecnologico de Monterrey, Mexico, 2012.
-* M.S. in Systems and Control, TU Eindhoven, The Netherlands, 2015.
-* Ph.D in Electrical Engineering, KU Leuven, Belgium, 2020 (expected).
+* B.S. in Mechatronics Engineering, Tecnologico de Monterrey, Mexico, December 2012.
+* M.S. in Systems and Control, TU Eindhoven, The Netherlands, September 2015.
+* Ph.D in Electrical Engineering, KU Leuven, Belgium, November 2020.
 
 Work experience
 ======
-* Nov. 2015 - present: Graduate Researcher and Teaching Assistant
+* Feb. 2021 - Present: Postdoctoral Research Scholar
+  * Berkeley Wireless Research Center. University of California, Berkeley.
+  * Research on resource-efficient hybrid cognitive systems integrating probabilistic inference and high-dimensional computing.
+  * PI: Prof. Jan Rabaey
+* Nov. 2015 - Dec 2020: Graduate Researcher and Teaching Assistant
   * KU Leuven Microelectronics and Sensors (MICAS) Lab. Leuven, Belgium.
   * PhD thesis project on hardware-aware machine learning for embedded applications.
   * Co-mentoring of master theses.
